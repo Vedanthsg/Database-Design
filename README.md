@@ -1,2 +1,2 @@
-# database-design-practice-eraser
-database design practice  using eraser
+# database-design-using-eraser
+database design using eraser
